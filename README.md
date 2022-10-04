@@ -1,10 +1,3 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-
-### <div align="center">I'm Jaedon, a computer science student 👨‍💻</div> 
-
 # 💫 About Me:
 🔭 I’m currently working on Efficient Transformer Language Models<br>🤝 I’m looking for help with Web Dev resources<br>🌱 I’m currently learning HTML and CSS<br>⚡ Fun fact I use tabs over spaces
 
