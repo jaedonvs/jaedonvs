@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on [Efficient Transformer Language Models](https://github.com/jaedonvs/Efficient-Transformer-Language-Models)<br>🤝 I’m looking for help with Web Dev resources<br>🌱 I’m currently learning HTML and CSS<br>⚡ Fun fact I use tabs over spaces
+🔭 I’m currently working on [Efficient Transformer Language Models](https://github.com/jaedonvs/Efficient-Transformer-Language-Models)<br>🤝 I’m looking for help with Cloud Computing<br>🌱 I’m currently learning Networking<br>⚡ Fun fact I use tabs over spaces
 
 
 ## 🌐 Socials:
